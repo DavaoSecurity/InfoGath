@@ -1,2 +1,2 @@
 # InfoGath
-Scripts to be run in Kali Linux for genral Information Gathering ny Nathan W Jones nat@davaosecurity.com
+Scripts to be run in Kali Linux for genral Information Gathering by Nathan W Jones nat@davaosecurity.com
