@@ -1,4 +1,4 @@
-# Hyperion v4 ARP Network Scanner
+# Hyperion v4 ARP Network Scanner by Nathan W Jones nat@davaosecurity.com
 # sudo apt-get install arp-scan
 # chmod +x network_scanner.py
 # python3 arpscan.py

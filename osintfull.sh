@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/bin/bash by Nathan W Jones nat@davaosecurity.com
 # Hyperion v4 OSINT tools in Kali
 # install whois, dig, nmap, theharvester, sublist3r, metasploit, amass
 # change the DOMAIN variable to the target domain

@@ -1,4 +1,4 @@
-# Hyperion v4 GUI Port Scanner
+# Hyperion v4 GUI Port Scanner by Nathan W Jones nat@davaosecurity.com
 
 import tkinter as tk
 from tkinter import messagebox, scrolledtext, simpledialog
