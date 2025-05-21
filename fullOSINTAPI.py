@@ -3,7 +3,7 @@
 # Logging Configuration: The logging is set up to log messages with timestamps and severity levels.
 # Search Engines: The tool searches multiple search engines for the given query.
 # Error Handling: The try-except blocks handle potential errors when making HTTP requests.
-# API Integration: The tool integrates with the Hunter.io and Shodan APIs. You need to replace YOUR_HUNTER_API_KEY and YOUR_SHODAN_API_KEY 
+# API Integration: The tool integrates with the Hunter.io and Shodan APIs. You need to replace YOUR_HUNTER_API_KEY and YOUR_SHODAN_API_KEY
 # Email Detection: The tool checks if the input is an email address and queries the APIs accordingly.
 # Results Logging: The results from both search engines and APIs are logged in a structured format.
 
@@ -78,5 +78,3 @@ if __name__ == "__main__":
     osint_tool = OSINTTool()
     query = input("Enter a website, email, or person's name to search: ")
     osint_tool.run(query)
-
-
